@@ -1,0 +1,11 @@
+[
+    {
+        "type": "overmap_special",
+        "id": "UN Security Outpost",
+        "overmaps": [ { "point": [ 0, 0, 0 ], "overmap": "MAK_UN_OUTPOST_1_south" }, { "point": [ 0, 0, 1 ], "overmap": "MAK_UN_OUTPOST_1_roof_south" } ],
+        "locations": [ "land" ],
+        "city_distance": [ 3, 20 ],
+        "occurrences": [ 0, 4 ],
+        "flags": [ "ELECTRIC_GRID" ]
+    }
+]

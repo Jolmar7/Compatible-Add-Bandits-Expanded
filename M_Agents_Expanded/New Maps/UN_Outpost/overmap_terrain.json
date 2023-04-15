@@ -1,0 +1,20 @@
+[
+    {
+        "id": "MAK_UN_OUTPOST_1",
+        "type": "overmap_terrain",
+        "name": "UN Security Outpost",
+        "sym": "U",
+        "color": "white_cyan",
+        "see_cost": 10,
+        "mondensity": 2
+    },
+    {
+        "id": "MAK_UN_OUTPOST_1_roof",
+        "type": "overmap_terrain",
+        "name": "UN Security Outpost roof",
+        "sym": "U",
+        "color": "white_cyan",
+        "see_cost": 2
+    }
+        
+]

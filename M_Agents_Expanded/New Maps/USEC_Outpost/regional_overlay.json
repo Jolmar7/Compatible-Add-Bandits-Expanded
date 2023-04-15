@@ -1,0 +1,11 @@
+[
+  {
+    "type": "region_overlay",
+    "regions": [ "all" ],
+    "city": {
+      "shops": {
+        "MAK_USEC_OUTPOST_1": 450
+      }
+    }
+  }
+]

@@ -1,0 +1,71 @@
+[
+    {
+        "id": "AMG_COMPOUND_a_1",
+        "type": "overmap_terrain",
+        "name": "Compound",
+        "sym": "C",
+        "color": "light_gray",
+        "see_cost": 10,
+        "mondensity": 2
+    },
+    {
+        "id": "AMG_COMPOUND_a_roof_1",
+        "type": "overmap_terrain",
+        "name": "Compound roof",
+        "sym": "C",
+        "color": "light_gray",
+        "see_cost": 2
+    },
+    {
+        "id": "AMG_COMPOUND_a_2",
+        "type": "overmap_terrain",
+        "name": "Compound",
+        "sym": "C",
+        "color": "light_gray",
+        "see_cost": 10,
+        "mondensity": 2
+    },
+    {
+        "id": "AMG_COMPOUND_a_roof_2",
+        "type": "overmap_terrain",
+        "name": "Compound roof",
+        "sym": "C",
+        "color": "light_gray",
+        "see_cost": 2
+    },
+    {
+        "id": "AMG_COMPOUND_a_3",
+        "type": "overmap_terrain",
+        "name": "Compound",
+        "sym": "C",
+        "color": "light_gray",
+        "see_cost": 10,
+        "mondensity": 2
+    },
+    {
+        "id": "AMG_COMPOUND_a_roof_3",
+        "type": "overmap_terrain",
+        "name": "Compound roof",
+        "sym": "C",
+        "color": "light_gray",
+        "see_cost": 2
+    },
+    {
+        "id": "AMG_COMPOUND_a_4",
+        "type": "overmap_terrain",
+        "name": "Compound",
+        "sym": "C",
+        "color": "light_gray",
+        "see_cost": 10,
+        "mondensity": 2
+    },
+    {
+        "id": "AMG_COMPOUND_a_roof_4",
+        "type": "overmap_terrain",
+        "name": "Compound roof",
+        "sym": "C",
+        "color": "light_gray",
+        "see_cost": 2
+    }
+        
+]

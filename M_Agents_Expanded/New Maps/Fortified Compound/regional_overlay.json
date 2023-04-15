@@ -1,0 +1,11 @@
+[
+  {
+    "type": "region_overlay",
+    "regions": [ "all" ],
+    "city": {
+      "houses": {
+        "Isolated_Compound": 1
+      }
+    }
+  }
+]

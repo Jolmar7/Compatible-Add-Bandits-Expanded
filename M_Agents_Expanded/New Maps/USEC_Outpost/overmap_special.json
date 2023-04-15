@@ -1,0 +1,8 @@
+[
+    {
+        "type": "city_building",
+        "id": "MAK_USEC_OUTPOST_1","overmaps": [ { "point": [ 0, 0, 0 ], "overmap": "MAK_USEC_OUTPOST_1_north" }, { "point": [ 0, 0, 1 ], "overmap": "MAK_USEC_OUTPOST_2_north" }, { "point": [ 0, 0, 2 ], "overmap": "MAK_USEC_OUTPOST_2_roof_north" } ],
+        "locations": [ "land" ],
+        "flags": [ "ELECTRIC_GRID" ]
+    }
+]
